@@ -86,7 +86,7 @@ We appreciate these partnerships and look forward to working with you all!
 >
 > - [Monday Lecture; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
 > - [Wednesday Lecture; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
-> - [Thursday Office Hours; July 16]()
+> - [Thursday Office Hours; July 16](https://cuboulder.zoom.us/rec/share/fW5E8BK0XVEqm6Y33lLuFzY0c6dtEGRvVkmIqnFUZXgDWB-FmdaFddAB8E657VRe.Fzwm22u1_5PXfeDm)
 
 ---
 
