@@ -141,21 +141,11 @@ We appreciate these partnerships and look forward to working with you all!
 ---
 
 # Participants
-
-| Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
-| ----------- | ----------- | ---------- | ---------- |
-| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
-| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
-Please add your name, organization, GitHub username, and link to GitHub
-portfolio to the table below. To do this you will need to **fork** this
-repository, make the changes, and submit a **pull request** so that your changes
-can be added to the course repo.
-
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
 | Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/] (https://ramadanaielsharif.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
 | Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
