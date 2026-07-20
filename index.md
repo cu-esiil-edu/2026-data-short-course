@@ -153,11 +153,11 @@ We appreciate these partnerships and look forward to working with you all!
 | Brian Erickson | Oregon State University | ericksbr | [https://ericksbr.github.io](https://ericksbr.github.io) |
 | Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
 | Madhura Kulkarni (student) | Northern Kentucky University | madhuravkulkarni |  [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
-| Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://github.com/Geophillic/geophillic.github.io](https://github.com/Geophillic/geophillic.github.io) |
+| Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://github.com/geophillic.github.io](https://github.com/geophillic.github.io) |
 | Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
 | Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
-| Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m) |
+| Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m.github.io](https://github.com/Omshanti0m.github.io) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
 | Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
@@ -166,7 +166,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
-| Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University] | dondu627 | [https://github.com/dondu627](https://github.com/dondu627) |
+| Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University] | dondu627 | [https://github.com/dondu627](https://github.com/dondu627.github.io) |
 | Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.githib.io/](https://majamicevska.githib.io/) |
 | Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
