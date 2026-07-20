@@ -151,7 +151,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
 | Brian Erickson | Oregon State University | ericksbr | [https://ericksbr.github.io](https://ericksbr.github.io) |
-| Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
+| Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/blog/2026/datacourse/](https://lmansf44.github.io/blog/2026/datacourse/) |
 | Madhura Kulkarni (student) | Northern Kentucky University | madhuravkulkarni |  [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
 | Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://geophillic.github.io](https://geophillic.github.io) |
 | Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
