@@ -142,6 +142,11 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 
+| Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
+| ----------- | ----------- | ---------- | ---------- |
+| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
 Please add your name, organization, GitHub username, and link to GitHub
 portfolio to the table below. To do this you will need to **fork** this
 repository, make the changes, and submit a **pull request** so that your changes
@@ -169,5 +174,9 @@ can be added to the course repo.
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
+| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska.github.io/) |
+| Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
+| Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
+
