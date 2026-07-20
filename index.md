@@ -176,6 +176,7 @@ can be added to the course repo.
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
 | Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
+| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska.github.io/) |
 | Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
 | Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
 
