@@ -115,3 +115,4 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 |[https://am-sheikh02.github.io/](https://am-sheikh02.github.io/) |
