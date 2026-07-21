@@ -171,7 +171,8 @@ We appreciate these partnerships and look forward to working with you all!
 | Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Elijah Oluwapelumi ( ESIIL 2026 Participant) | FUTA, Nigeria | Elijah-Oluwapelumi | [https://elijah-oluwapelumi.github.io/](https://elijah-oluwapelumi.github.io/) |
-| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska.github.io/) |
+| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska./github.io/) |
 | Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
 | Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
+| Manisha (Participant) | University of the Algarve | manisha1810 | [https://manisha1810.github.io/](https://manisha1810.github.io/manishaee.github.io/) |
 
