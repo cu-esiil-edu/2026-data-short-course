@@ -154,11 +154,11 @@ We appreciate these partnerships and look forward to working with you all!
 | Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
 | Madhura Kulkarni (student) | Northern Kentucky University | madhuravkulkarni |  [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
 | Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://geophillic.github.io](https://geophillic.github.io) |
-| Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
+| Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
 | Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://Omshanti0m.github.io](https://Omshanti0m.github.io) |
-| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
+| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |     
 | Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
 | Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/](https://nishitaivy.github.io/) |
