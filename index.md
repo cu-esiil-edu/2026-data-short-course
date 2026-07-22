@@ -141,6 +141,7 @@ We appreciate these partnerships and look forward to working with you all!
 ---
 
 # Participants
+
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
