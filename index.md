@@ -146,7 +146,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
 | Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
-| Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/] (https://ramadanaielsharif.github.io/) |
+| Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/ (https://ramadanaielsharif.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
 | Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
@@ -161,8 +161,8 @@ We appreciate these partnerships and look forward to working with you all!
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
 | Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
-| Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/] |(https://nishitaivy.github.io/) |
-| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io | (https://vaasukimarupaka.github.io) | 
+| Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/](https://nishitaivy.github.io/) |
+| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io](https://vaasukimarupaka.github.io) | 
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
