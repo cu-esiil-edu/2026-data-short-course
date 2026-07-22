@@ -161,14 +161,14 @@ We appreciate these partnerships and look forward to working with you all!
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
 | Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
-| Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/](https://nishitaivy.github.io/) |
-| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io](https://vaasukimarupaka.github.io) | 
+| Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/] |(https://nishitaivy.github.io/) |
+| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io | (https://vaasukimarupaka.github.io) | 
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
 | Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University] | dondu627 | [https://dondu627.github.io](https://dondu627.github.io) |
 | Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.githib.io/](https://majamicevska.githib.io/) |
-| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
+| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/) |
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Elijah Oluwapelumi ( ESIIL 2026 Participant) | FUTA, Nigeria | Elijah-Oluwapelumi | [https://elijah-oluwapelumi.github.io/](https://elijah-oluwapelumi.github.io/) |
 | Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska.github.io/) |
