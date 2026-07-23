@@ -123,7 +123,7 @@ We appreciate these partnerships and look forward to working with you all!
 > - [Monday Lecture - Time-Series Data; July 20](https://cuboulder.zoom.us/rec/share/yW_wnIyj0NOXlMd5Ls6SJoySkqvBgeWwhUNBMcJAKyKTsO7W88t2y-r-zWWSQKw.4_i3ZIrgj85LGVLz) - **USE PASSCODE:** i$mCV0p=
 > - [Wednesday Lecture - Raster Data; July 22](https://cuboulder.zoom.us/rec/share/cUACuSfghgw87OEfLcfR7wyUTP9nX9yHB8XiX2GFNyn_TMp5TUmCUhxFvngQ6uWd.v-_L7--7-4xUm-m8)
 > - [**EXTRA VIDEO: Download NDVI Data Using NASA AppEEARS**](https://cuboulder.zoom.us/rec/share/MfqLqkwz_CxHPo2fEEIcUXAgnONNl8UY9CizRUVWb6qJJDEyflsTLQgn0zFtaIYC.5MXcwM8gODUrZ6RD?startTime=1761401585000)
-> - [Thursday Office Hours; July 23]()
+> - [Thursday Office Hours; July 23](https://cuboulder.zoom.us/rec/share/6NxiYVtDCkXm9cpPHEzQRCVEU9iNH0nEv__l8wSwcKmJxaIYa7pu7OxVmdZnevD_.NCyA7q1N4ji9gsJG)
 
 ---
 
