@@ -84,8 +84,8 @@ We appreciate these partnerships and look forward to working with you all!
 
 > ### 🎥 **Week 1 Recordings:**
 >
-> - [Monday Lecture; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
-> - [Wednesday Lecture; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
+> - [Monday Lecture - GitHub Profile Page; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
+> - [Wednesday Lecture - Interactive Maps; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
 > - [Thursday Office Hours; July 16](https://cuboulder.zoom.us/rec/share/fW5E8BK0XVEqm6Y33lLuFzY0c6dtEGRvVkmIqnFUZXgDWB-FmdaFddAB8E657VRe.Fzwm22u1_5PXfeDm)
 
 ---
@@ -120,8 +120,9 @@ We appreciate these partnerships and look forward to working with you all!
 
 > ### 🎥 **Week 2 Recordings:**
 >
-> - [Monday Lecture; July 20]()
-> - [Wednesday Lecture; July 22]()
+> - [Monday Lecture - Time-Series Data; July 20](https://cuboulder.zoom.us/rec/share/yW_wnIyj0NOXlMd5Ls6SJoySkqvBgeWwhUNBMcJAKyKTsO7W88t2y-r-zWWSQKw.4_i3ZIrgj85LGVLz) - **USE PASSCODE:** i$mCV0p=
+> - [Wednesday Lecture - Raster Data; July 22](https://cuboulder.zoom.us/rec/share/cUACuSfghgw87OEfLcfR7wyUTP9nX9yHB8XiX2GFNyn_TMp5TUmCUhxFvngQ6uWd.v-_L7--7-4xUm-m8)
+> - [**EXTRA VIDEO: Download NDVI Data Using NASA AppEEARS**](https://cuboulder.zoom.us/rec/share/MfqLqkwz_CxHPo2fEEIcUXAgnONNl8UY9CizRUVWb6qJJDEyflsTLQgn0zFtaIYC.5MXcwM8gODUrZ6RD?startTime=1761401585000)
 > - [Thursday Office Hours; July 23]()
 
 ---
@@ -141,12 +142,13 @@ We appreciate these partnerships and look forward to working with you all!
 ---
 
 # Participants
+
 | Name                          | Organization          | GitHub Username | GitHub Portfolio Link                                      |
 | ----------------------------- | --------------------- | --------------- | ---------------------------------------------------------- |
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
-| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/). |
-| Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/] (https://ramadanaielsharif.github.io/) |
+| Pauline Jackson (participant) | Sinte Gleska University | pjsgu605 | [https://pjsgu605.github.io/](https://pjsgu605.github.io/) |
+| Ramadan El Sharif (participant) | Wilberforce University | ramadanaielsharif | [https://ramadanaielsharif.github.io/](https://ramadanaielsharif.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
 | Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
@@ -154,11 +156,11 @@ We appreciate these partnerships and look forward to working with you all!
 | Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
 | Madhura Kulkarni (student) | Northern Kentucky University | madhuravkulkarni |  [https://madhuravkulkarni.github.io](https://madhuravkulkarni.github.io) |
 | Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://geophillic.github.io](https://geophillic.github.io) |
-| Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
+| Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
 | Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://Omshanti0m.github.io](https://Omshanti0m.github.io) |
-| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
+| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |     
 | Sara Tabatabaie (participant) | Environmental Design CU Boulder | saratabatabaie | [https://saratabatabaie.github.io/](https://saratabatabaie.github.io/) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |    
 | Nishita Ivy (Participant) | Research Fellow, Earth System Governance Project | nishitaivy | [https://nishitaivy.github.io/](https://nishitaivy.github.io/) |
@@ -166,13 +168,13 @@ We appreciate these partnerships and look forward to working with you all!
 | Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
-| Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University] | dondu627 | [https://dondu627.github.io](https://dondu627.github.io) |
-| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.githib.io/](https://majamicevska.githib.io/) |
-| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/)
+| Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University | dondu627 | [https://dondu627.github.io](https://dondu627.github.io) |
+| Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/) |
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Elijah Oluwapelumi ( ESIIL 2026 Participant) | FUTA, Nigeria | Elijah-Oluwapelumi | [https://elijah-oluwapelumi.github.io/](https://elijah-oluwapelumi.github.io/) |
 | Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.github.io/](https://majamicevska./github.io/) |
 | Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
 | Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
 | Manisha (Participant) | University of the Algarve | manisha1810 | [https://manisha1810.github.io/](https://manisha1810.github.io/manishaee.github.io/) |
+| Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 | [https://am-sheikh02.github.io/] (https://am-sheikh02.github.io/) |
 
