@@ -176,5 +176,5 @@ We appreciate these partnerships and look forward to working with you all!
 | Arundhati Das (Participant) | Azim Premji University | Arundhati-shola | [https://arundhati-shola.github.io/](https://arundhati-shola.github.io/) |
 | Caitlin Hawley (Participant) | Arizona State University | crhawley | [https://crhawley.github.io/](https://crhawley.github.io/) |
 | Manisha (Participant) | University of the Algarve | manisha1810 | [https://manisha1810.github.io/](https://manisha1810.github.io/manishaee.github.io/) |
-| Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 | [https://am-sheikh02.github.io/] (https://am-sheikh02.github.io/) |
+| Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 | [https://am-sheikh02.github.io/](https://am-sheikh02.github.io/) |
 
