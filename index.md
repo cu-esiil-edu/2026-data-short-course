@@ -84,8 +84,8 @@ We appreciate these partnerships and look forward to working with you all!
 
 > ### 🎥 **Week 1 Recordings:**
 >
-> - [Monday Lecture; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
-> - [Wednesday Lecture; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
+> - [Monday Lecture - GitHub Profile Page; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
+> - [Wednesday Lecture - Interactive Maps; July 15](https://cuboulder.zoom.us/rec/share/sBsFZKRHXEUrodc--rkwPP1CiXjpWsJ8RMoDDGuFCGoU9CZNAEFchujlBuhXwmzx.c4emTsI-_RJOmLP6)
 > - [Thursday Office Hours; July 16](https://cuboulder.zoom.us/rec/share/fW5E8BK0XVEqm6Y33lLuFzY0c6dtEGRvVkmIqnFUZXgDWB-FmdaFddAB8E657VRe.Fzwm22u1_5PXfeDm)
 
 ---
@@ -120,8 +120,9 @@ We appreciate these partnerships and look forward to working with you all!
 
 > ### 🎥 **Week 2 Recordings:**
 >
-> - [Monday Lecture; July 20](https://cuboulder.zoom.us/rec/share/yW_wnIyj0NOXlMd5Ls6SJoySkqvBgeWwhUNBMcJAKyKTsO7W88t2y-r-zWWSQKw.4_i3ZIrgj85LGVLz) - **USE PASSCODE:** i$mCV0p=
-> - [Wednesday Lecture; July 22](https://cuboulder.zoom.us/rec/share/cUACuSfghgw87OEfLcfR7wyUTP9nX9yHB8XiX2GFNyn_TMp5TUmCUhxFvngQ6uWd.v-_L7--7-4xUm-m8)
+> - [Monday Lecture - Time-Series Data; July 20](https://cuboulder.zoom.us/rec/share/yW_wnIyj0NOXlMd5Ls6SJoySkqvBgeWwhUNBMcJAKyKTsO7W88t2y-r-zWWSQKw.4_i3ZIrgj85LGVLz) - **USE PASSCODE:** i$mCV0p=
+> - [Wednesday Lecture - Raster Data; July 22](https://cuboulder.zoom.us/rec/share/cUACuSfghgw87OEfLcfR7wyUTP9nX9yHB8XiX2GFNyn_TMp5TUmCUhxFvngQ6uWd.v-_L7--7-4xUm-m8)
+> - [**EXTRA VIDEO: Download NDVI Data Using NASA AppEEARS**](https://cuboulder.zoom.us/rec/share/MfqLqkwz_CxHPo2fEEIcUXAgnONNl8UY9CizRUVWb6qJJDEyflsTLQgn0zFtaIYC.5MXcwM8gODUrZ6RD?startTime=1761401585000)
 > - [Thursday Office Hours; July 23]()
 
 ---
@@ -168,7 +169,6 @@ We appreciate these partnerships and look forward to working with you all!
 | Julia Siegel (she/her) (Participant) | Independent Researcher | juliasiegel | [https://juliasiegel.github.io/](https://juliasiegel.github.io/) |
 | Orlando Acevedo-Charry (he/his/el) (Participant) | University of Florida | OACColombia | [https://oaccolombia.github.io](https://oaccolombia.github.io/) |
 | Döndü Sarışen (she/her) (Participant)| Ankara Yıldırım Beyazıt University | dondu627 | [https://dondu627.github.io](https://dondu627.github.io) |
-| Maja Micevska (participant) | VUB, Brussels; UBI Business School | MajaMicevska | [https://majamicevska.githib.io/](https://majamicevska.githib.io/) |
 | Marjorie Huang (participant) | Independent Researcher | m-huang25 | [https://m-huang25.github.io/](https://m-huang25.github.io/) |
 | Oumar Jaffar (Participant) | University Mohammed VI Polytechnic | OumarJaffar-R | [https://oumarjaffar-r.github.io/](https://oumarjaffar-r.github.io/) |
 | Elijah Oluwapelumi ( ESIIL 2026 Participant) | FUTA, Nigeria | Elijah-Oluwapelumi | [https://elijah-oluwapelumi.github.io/](https://elijah-oluwapelumi.github.io/) |
